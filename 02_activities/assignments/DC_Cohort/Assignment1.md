@@ -205,5 +205,11 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+I was born and raised in Pakistan and am quite proud of how sophisticated the infrastructure supporting the Pakistani national ID database (NADRA) has become overtime in a place where govermental operations generally offer a bleak picture. On the otherhand, the systemic biases that Qadri brings to light in his article are all too familiar. It is a good example of how data systems quietly enforce particular value systems. On the surface, it looks like neutral infrastructure: a way to keep track of people so they can access services. But its schema encodes a very specific idea of family: a married, heterosexual couple, with legitimate children linked to that family unit. When the system throws an error like “Unmarried Mother,” it is not just describing an algorithmic loophole but offering a verdict on which relationships are considered socially valid and which are anomalous or even stigmatic.
+
+Because so many services depend on NADRA – banking, SIM cards, welfare programs – these design choices have material consequences. People whose lives do not fit the mold (single mothers, orphans, khawaja sira communities) experience more hurdles and sometimes outright exclusion. The edge cases reveal a hole in the social fabric.
+
+Once you notice this, it is hard not to see similar patterns in everyday systems: online forms that force a binary gender, portals that assume a permanent address or dietary restriction options that overlook common religious choices. These design decisions privilege users who match the default profile and make everyone else do extra work to fit themselves into the system.
+
+For me, the key takeaway is that databases are never just technical artifacts but they embody our cultural assumptions about what kinds of people and relationships are tolerated in a certain society. An ethical approach would start from designing schemas that anticipate variability rather than enforcing a one-size-fits-all model of society.
 ```
